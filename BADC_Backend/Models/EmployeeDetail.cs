@@ -9,5 +9,6 @@ namespace BADC_Backend.Models
         public int EmployeeId { get; set; }
         public string? EmployeeName { get; set; }
         public string? EmployeePhone { get; set; }
+        public string? EmployeeDesignation { get; set; }
     }
 }
